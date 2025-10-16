@@ -15,3 +15,4 @@ warnings.filterwarnings('ignore')
 
 print('Testing pushing to Github with the GUI')
 print('second change just to change it')
+print('commited and pushed via gui')
