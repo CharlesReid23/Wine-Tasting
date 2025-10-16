@@ -12,6 +12,3 @@ from sklearn.linear_model import LogisticRegression
 
 import warnings
 warnings.filterwarnings('ignore')
-
-print('test')
-print('test2')
