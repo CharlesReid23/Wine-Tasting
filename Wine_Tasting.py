@@ -12,3 +12,6 @@ from sklearn.linear_model import LogisticRegression
 
 import warnings
 warnings.filterwarnings('ignore')
+
+print('Testing pushing to Github with the GUI')
+print('second change just to change it')
